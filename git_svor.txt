@@ -1,9 +1,9 @@
 Git spurningar og svör
 
 1. Hvað gera eftirfarandi Linux skipanir?
-	cd
-	cd ~
-	ls
-	pwd
-	mkdir
+	cd change directory
+	cd ~ shortcut til þess að komast í home directory
+	ls sýnir þer innihaldið í directory-inu sem þú ert í
+	pwd segjir þér hvar þú ert
+	mkdir -býr til directory
 
