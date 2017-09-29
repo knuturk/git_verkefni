@@ -7,3 +7,11 @@ Git spurningar og svör
 	pwd segjir þér hvar þú ert
 	mkdir -býr til directory
 
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone - The git clone command copies an existing Git repository
+	git log - git log sýnir þér öll commits sem þú hefur gert
+	git status 
+	git diff Show changes between the working tree and the index or a tree, changes between the index and a tree, changes between two trees, changes between two blob objects, or changes between two files on disk. 
+	git checkout It keeps all the various versions in a unique database. Git allows multiple developers to work on the same code simultaneously. Sometimes, a programmer will need to access a coworker's independent work, or “branch.” The git checkout remote branch action makes this possible.
+
+
